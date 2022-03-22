@@ -11,7 +11,7 @@ Note: Please check the screenshot of running app in the root of source-code.
 
 Clone this Repo
 
-> \$ git clone 
+> \$ git clone https://github.com/saryuR/Pawn-Simulator.git
 
 In root of the app run npm install
 
